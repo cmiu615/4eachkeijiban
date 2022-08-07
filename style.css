@@ -1,0 +1,141 @@
+.menu  ul{
+    float: left;
+    list-style: none;
+    background-color: black;
+    color: white;
+    width:100%;
+    line-height: 40px;
+    font-size: 15px;
+}
+
+.menu li{
+    float: left;
+    padding-left: 50px;
+}
+
+
+h1{
+    margin: 0 auto;
+    padding-left: 50px;
+    border-left: 5px solid red;
+    border-bottom: 2px solid gray;
+}
+
+.main-contener h2{
+        margin: 0 auto;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        border-left: 4px red solid;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 15px;
+        width: 500px;
+        font-size: 20px;
+}
+
+
+.main-contener{
+    float:left;
+    margin: 0 auto;
+}
+
+
+.right p{
+    border-bottom: 2px dotted gray;
+}
+
+
+
+.right{
+    float:left;
+    padding-left: 50px;
+    height: auto;
+    margin-bottom: 40px;
+
+}
+
+.right ul{
+    list-style: none;
+    line-height: 40px;
+}
+
+.main-contener {
+
+    float: left;
+    height: auto;
+    margin-bottom: 40px;
+}
+
+footer{
+    clear: left;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    line-height: 40px;
+}
+    
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+
+h1{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: 4px black solid;
+    background-color: #fbfbfb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 500px;
+    font-size: 20px;
+}
+
+
+
+form{
+    margin: 0,auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 500px;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text,textarea,.dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px,10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.kiji{
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 100%;
+}
+
+.kiji h3{
+    border-bottom: solid 2px lightgray;
+}
+
+.contents{
+    margin:5px;
+    padding-bottom:5px;
+}
